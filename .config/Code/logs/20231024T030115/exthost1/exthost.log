@@ -1,0 +1,15 @@
+[2023-10-24 03:01:17.554] [exthost] [info] Extension host with pid 71102 started
+[2023-10-24 03:01:17.747] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2023-10-24 03:01:17.767] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-10-24 03:01:17.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-10-24 03:01:17.896] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-10-24 03:01:17.902] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2023-10-24 03:01:18.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-10-24 03:01:18.435] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-10-24 03:01:18.643] [exthost] [info] Eager extensions activated
+[2023-10-24 03:01:18.650] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2023-10-24 03:01:18.713] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2023-10-24 03:01:18.747] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-10-24 03:01:18.771] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-10-24 03:01:23.845] [exthost] [info] extension host terminating: renderer closed the socket
+[2023-10-24 03:01:23.855] [exthost] [info] Extension host with pid 71102 exiting with code 0

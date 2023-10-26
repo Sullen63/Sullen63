@@ -1,0 +1,5 @@
+[2023-10-24 03:00:54.123] [main] [info] update#setState idle
+[2023-10-24 03:00:54.221] [main] [info] ExtensionHostStarterWorker created
+[2023-10-24 03:00:55.545] [main] [info] Starting extension host with pid 70910 (fork() took 14 ms).
+[2023-10-24 03:01:05.272] [main] [info] Waiting for extension host with pid 70910 to exit.
+[2023-10-24 03:01:05.283] [main] [info] Extension host with pid 70910 exited with code: 0, signal: null.
